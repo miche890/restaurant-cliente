@@ -5,7 +5,7 @@ import firebase, { FirebaseContext } from "./firebase";
 import Ordenes from "./components/paginas/Ordenes";
 import Menu from "./components/paginas/Menu";
 import NuevoPlatillo from "./components/paginas/NuevoPlatillo";
-import Sidebar from "./components/ui/sidebar";
+import Sidebar from "./components/ui/Sidebar";
 
 function App() {
   return (
